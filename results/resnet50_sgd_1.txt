@@ -1,0 +1,41 @@
+learning time Start :  2023-11-30 16:54:27.988799
+Epoch: 1
+Training - Loss:  nan, Accuracy:  5.2592
+Validation - Loss:  nan, Accuracy:  4.9905
+Best Acc :  4.990
+learning time End :  2023-11-30 17:13:10.358040
+learning time Start :  2023-11-30 17:13:10.358040
+Epoch: 2
+Training - Loss:  nan, Accuracy:  5.0540
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 17:25:41.739820
+learning time Start :  2023-11-30 17:25:41.739820
+Epoch: 3
+Training - Loss:  nan, Accuracy:  5.5009
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 17:38:16.894090
+learning time Start :  2023-11-30 17:38:16.894090
+Epoch: 4
+Training - Loss:  nan, Accuracy:  5.1389
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 17:50:47.978628
+learning time Start :  2023-11-30 17:50:47.978628
+Epoch: 5
+Training - Loss:  nan, Accuracy:  5.0798
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 18:03:20.049353
+learning time Start :  2023-11-30 18:03:20.049353
+Epoch: 6
+Training - Loss:  nan, Accuracy:  5.2205
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 18:15:52.369873
+learning time Start :  2023-11-30 18:15:52.369873
+Epoch: 7
+Training - Loss:  nan, Accuracy:  5.0723
+Validation - Loss:  nan, Accuracy:  4.9905
+learning time End :  2023-11-30 18:28:22.888744
+Early Stop
+learning time (100 epoch train+validate) : 5634.899944782257
+
+Validation - F1-Score:  0.0040, Precision: 0.0021, Recall: 0.0417
+Test - Accuracy: 4.9861
