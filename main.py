@@ -10,14 +10,14 @@ if __name__ == '__main__':
     train_path = r'F:\PED\splitdata\train'
     val_path = r'F:\PED\splitdata\val'
     test_path = r'F:\PED\splitdata\test'
-    modelss = 'cnn'
-    optimizer = "sgd"
+    modelss = 'resnet50'
+    optimizer = "adam"
     epochs = 100
     early_stop = 5
     best_acc = 0
     batch_size = 128
 
-    pt_path = f'.\\checkpoint\\{modelss}_{optimizer}.pt'
+    pt_path = f'.\\checkpoint\\{modelss}_{optimizer}_0001.pt'
 
     start = time.time()
 
@@ -43,3 +43,4 @@ if __name__ == '__main__':
 
     predict_test = predict.Predict(test_path, modelss, pt_path, batch_size)
     predict_test.test()
+    predict_test.top()

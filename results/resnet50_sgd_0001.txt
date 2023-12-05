@@ -108,3 +108,6 @@ learning time (100 epoch train+validate) : 16301.875457286835
 
 Validation - F1-Score:  0.1574, Precision: 0.2137, Recall: 0.1911
 Test - Accuracy: 25.0499
+
+.\checkpoint\resnet50_sgd_0001.pt 18.5287%
+.\checkpoint\resnet50_sgd_0001.pt 58.0806%

@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33ae5e45-a315-4af4-8b39-1351786d768f" name="Changes" comment="" />
+    <list default="true" id="33ae5e45-a315-4af4-8b39-1351786d768f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/resnet50_sgd_0001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/resnet50_sgd_0001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/resnet50_sgd_001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/resnet50_sgd_001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/resnet50_sgd_01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/resnet50_sgd_01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/resnet50_sgd_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/resnet50_sgd_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_adam_0001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_adam_0001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_adam_001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_adam_001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_adam_01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_adam_01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_adam_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_adam_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_sgd_0001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_sgd_0001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_sgd_001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_sgd_001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_sgd_01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_sgd_01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/vgg16_sgd_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/vgg16_sgd_1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1701698817994</updated>
       <workItem from="1701698819259" duration="1131000" />
+      <workItem from="1701699982103" duration="207000" />
+      <workItem from="1701809949129" duration="466000" />
     </task>
     <task id="LOCAL-00001" summary="23.12.1">
       <created>1701699646140</created>

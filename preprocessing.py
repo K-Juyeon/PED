@@ -59,6 +59,6 @@ class preprocessing() :
 
 
 if __name__ == "__main__":
-    # preprocessing.assemble(dataset)
-    # preprocessing.split(assembel, splitdata)
+    preprocessing.assemble(dataset)
+    preprocessing.split(assembel, splitdata)
     preprocessing.puttogether(splitdata)

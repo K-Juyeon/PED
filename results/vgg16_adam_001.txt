@@ -60,3 +60,6 @@ learning time (100 epoch train+validate) : 48613.66659498215
 
 Validation - F1-Score:  0.0054, Precision: 0.0029, Recall: 0.0417
 Test - Accuracy: 28.0197
+
+.\checkpoint\vgg16_adam_001.pt 22.0632%
+.\checkpoint\vgg16_adam_001.pt 67.5004%
